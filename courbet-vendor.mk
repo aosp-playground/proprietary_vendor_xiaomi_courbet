@@ -333,6 +333,7 @@ PRODUCT_PACKAGES += \
     liboemcrypto \
     librelight_only \
     libremosaiclib \
+    libsdedrm \
     libsdk_sr \
     libsensorcal \
     libsensorndkbridge \
