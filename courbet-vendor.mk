@@ -318,7 +318,6 @@ PRODUCT_PACKAGES += \
     libdualcam_optical_zoom_control \
     libdualcam_video_optical_zoom \
     libft2vendor \
-    libhta_hexagon_runtime \
     libhvx_interface \
     libfacedet \
     libmiai_portraitsupernight \
