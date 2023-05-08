@@ -330,6 +330,7 @@ PRODUCT_PACKAGES += \
     libmulticam_image_optical_zoom \
     libmulticam_video_optical_zoom \
     libnotifyaudiohal \
+    liboemcrypto \
     librelight_only \
     libremosaiclib \
     libsdk_sr \
